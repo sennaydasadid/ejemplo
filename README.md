@@ -38,6 +38,6 @@ _Aquí tenemos el ejemplo de cómo es que se muestran los objetos que guardamos 
 nuestro inventario, las tablas están diseñadas para que distinguir entre clases sea muy
 fácil y tener a la mano las fechas en que fueron modificadas o creadas_<br/>
 <p align="center">
-  <img width="70%" height="70%" src="_readme_/db7.PNG">
+  <img width="90%" height="90%" src="_readme_/db7.PNG">
 </p>
 # Autores
