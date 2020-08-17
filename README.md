@@ -42,4 +42,10 @@ fácil y tener a la mano las fechas en que fueron modificadas o creadas_<br/>
 <p align="center">
   <img width="90%" height="90%" src="_readme_/db7.PNG">
 </p>
-# Autores
+
+
+# Autores ✒️
+
+* **Sennayda Rimache**  - [sennaydasadid](https://github.com/sennaydasadid)
+
+* **Anagabriela Jimenez**  - [AnagabrielaJimenez](https://github.com/AnagabrielaJimenez)
