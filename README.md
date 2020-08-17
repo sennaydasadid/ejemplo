@@ -24,7 +24,7 @@ _En la parte inferior de la página de inicio tenemos las funcionalidades del in
 
 _Ya en la PÁGINA DE INICIO tendremos opciones, buscar, llevar un control pero esto incluye datos de tipo Fecha y hora para saber la hora exacta de creación y modificación,pero eso viene por defecto y tambien borrar registro_<br/>
 <p align="center">
-  <img width="60%" height="60%" src="_readme_/db5.PNG">
+  <img width="70%" height="70%" src="_readme_/db5.PNG">
 </p>
 _Los bienes son guardados exitosamente por los administradores y los demás usuarios
 pueden verlos, los campos de las tablas son en extremo necesarias y requeridas para el
@@ -34,5 +34,10 @@ a la hora de guardar un objeto_<br/>
 <p align="center">
   <img width="50%" height="50%" src="_readme_/db6.PNG">
 </p>
-
+_Aquí tenemos el ejemplo de cómo es que se muestran los objetos que guardamos en
+nuestro inventario, las tablas están diseñadas para que distinguir entre clases sea muy
+fácil y tener a la mano las fechas en que fueron modificadas o creadas_<br/>
+<p align="center">
+  <img width="50%" height="50%" src="_readme_/db7.PNG">
+</p>
 # Autores
