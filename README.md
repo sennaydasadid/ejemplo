@@ -21,4 +21,18 @@ _En la parte inferior de la página de inicio tenemos las funcionalidades del in
 <p align="center">
   <img width="50%" height="50%" src="_readme_/db4.PNG">
 </p>
+
+_Ya en la PÁGINA DE INICIO tendremos opciones, buscar, llevar un control pero esto incluye datos de tipo Fecha y hora para saber la hora exacta de creación y modificación,pero eso viene por defecto y tambien borrar registro_<br/>
+<p align="center">
+  <img width="50%" height="50%" src="_readme_/db5.PNG">
+</p>
+_Los bienes son guardados exitosamente por los administradores y los demás usuarios
+pueden verlos, los campos de las tablas son en extremo necesarias y requeridas para el
+correcto grabado en la base de datos pues nos indicarán con exactitud lo más importante
+a la hora de guardar un objeto_<br/>
+
+<p align="center">
+  <img width="50%" height="50%" src="_readme_/db6.PNG">
+</p>
+
 # Autores
