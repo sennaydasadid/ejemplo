@@ -6,4 +6,7 @@ _Para el manejo de cada uno de los bienes u objetos se utilizara un código de b
 
 # Descripción
 _La aplicación web es de facil acceso y facil de interactuar, como pantallama de inicio tenemos la bienvenida y opción de comenzar, asi mismo en la misma pantalla, en la parte inferior derecha, tenemos dos opciones, Iniciar seción o Resgistrarse_
+<p align="center">
+  <img width="50%" height="50%" src="_readme_/db1.JPG">
+</p>
 # Autores
