@@ -9,11 +9,11 @@ _Para el manejo de cada uno de los bienes u objetos se utilizara un código de b
 <p align="center">
   <img width="50%" height="50%" src="_readme_/db2.PNG">
 </p>
-_La aplicación web es de facil acceso y facil de interactuar, como pantallama de inicio tenemos la bienvenida y opción de comenzar, asi mismo en la misma pantalla, en la parte inferior derecha, tenemos dos opciones, Iniciar seción o Resgistrarse_<br/>
+La aplicación web es de facil acceso y facil de interactuar, como pantallama de inicio tenemos la bienvenida y opción de comenzar, asi mismo en la misma pantalla, en la parte inferior derecha, tenemos dos opciones, Iniciar seción o Resgistrarse<br/>
 <p align="center">
   <img width="50%" height="50%" src="_readme_/db1.PNG">
 </p>
-_En la parte inferior de la página de inicio tenemos las funcionalidades del inventario, y tambien los contactos._<br/>
+En la parte inferior de la página de inicio tenemos las funcionalidades del inventario, y tambien los contactos._<br/>
 
 * REGISTRARSE , en esta opción puedes ingresar tus datos incluida tu contraseña, el cual podras usarla para ingresar a la aplicación las veces que quieras. 
 <p align="center">
@@ -28,10 +28,10 @@ _Ya en la PÁGINA DE INICIO tendremos opciones, buscar, llevar un control pero e
 <p align="center">
   <img width="70%" height="70%" src="_readme_/db5.PNG">
 </p>
-_Los bienes son guardados exitosamente por los administradores y los demás usuarios
+Los bienes son guardados exitosamente por los administradores y los demás usuarios
 pueden verlos, los campos de las tablas son en extremo necesarias y requeridas para el
 correcto grabado en la base de datos pues nos indicarán con exactitud lo más importante
-a la hora de guardar un objeto_<br/>
+a la hora de guardar un objeto<br/>
 
 <p align="center">
   <img width="50%" height="50%" src="_readme_/db6.PNG">
