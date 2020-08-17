@@ -15,16 +15,16 @@ _En la parte inferior de la página de inicio tenemos las funcionalidades del in
 
 * REGISTRARSE , en esta opción puedes ingresar tus datos incluida tu contraseña, el cual podras usarla para ingresar a la aplicación las veces que quieras. 
 <p align="center">
-  <img width="50%" height="50%" src="_readme_/db3.PNG">
+  <img width="35%" height="35%" src="_readme_/db3.PNG">
 </p>
 * INICIAR SECION , en esta opción nos piden los datos que anteriormente ya usamos para registrarnos.
 <p align="center">
-  <img width="50%" height="50%" src="_readme_/db4.PNG">
+  <img width="40%" height="40%" src="_readme_/db4.PNG">
 </p>
 
 _Ya en la PÁGINA DE INICIO tendremos opciones, buscar, llevar un control pero esto incluye datos de tipo Fecha y hora para saber la hora exacta de creación y modificación,pero eso viene por defecto y tambien borrar registro_<br/>
 <p align="center">
-  <img width="50%" height="50%" src="_readme_/db5.PNG">
+  <img width="60%" height="60%" src="_readme_/db5.PNG">
 </p>
 _Los bienes son guardados exitosamente por los administradores y los demás usuarios
 pueden verlos, los campos de las tablas son en extremo necesarias y requeridas para el
